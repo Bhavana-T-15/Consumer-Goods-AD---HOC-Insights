@@ -12,8 +12,6 @@ AtliQ Hardware (imaginary company) is one of the leading computer hardware produ
 
 ▶ Run a SQL Query to answer these requests.
 
-▶ Convert into visualizations and present insights to top-level management
-
 📋 Requests:
 
 * Provide the list of markets in which customer "AtliQ Exclusive" operates its business in the APAC region.
